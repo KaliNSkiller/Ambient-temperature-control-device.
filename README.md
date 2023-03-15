@@ -15,3 +15,5 @@ List of required parts:
 7)Board jumper wire, male model
 
 First step: connecting DS18B20 temperature sensor to Arduino board
+
+![Uploading سنسور-دما-دیجیتال-ds18b20-اورجینال.jpg…]()
