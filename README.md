@@ -12,6 +12,10 @@ List of required parts:
 5)4.7 kilo ohm resistance
 
 6)Single 2 pin DIP switch
+                                        
 7)Board jumper wire, male model
 
 First step: connecting DS18B20 temperature sensor to Arduino board
+ 
+
+1)
