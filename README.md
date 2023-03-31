@@ -18,4 +18,4 @@ List of required parts:
 First step: connecting DS18B20 temperature sensor to Arduino board
  
 
-1)
+1)connect the VCC pin to the pin 8 on arduino  and
